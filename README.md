@@ -1,8 +1,9 @@
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/Goldfinch_logo.png">
 <BR>
 <BR>
-# Goldfinch E-bikes
-## A case study of E-bike usage in New York City
+  
+# Goldfinch E-bikes: A case study of E-bike usage in New York City
+
 
 
 
