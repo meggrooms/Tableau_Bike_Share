@@ -19,13 +19,25 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
 ## Study Results
 
 
-• Most Citibike rides in NYC are under 15 minutes, with the the most rides lasting 7 minutes.
+• Most Citibike rides in NYC are under 15 minutes, with a peak ride time of 6 minutes.
  <BR>
 • Those who identify as male used Citibike considerably more than female and other/unknown.
  <BR>
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/story_1.png">
+<BR>
+<BR>
 
-
+• White annual subscribers comprise a large portion of daily rides, those who are not annual subscribers checkout approximately 30K more times per hour.
+<BR>
+<img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/by_user.png">
+<BR>
+<BR>
+• E-bike checkout numbers are ib correlation with the city's traditional commute/rush hours.
+<BR>
+<BR>
+<img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/time_used.png">
+<BR>
+<BR>  
 
    
    
