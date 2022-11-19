@@ -25,6 +25,8 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
  <BR>
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/story_1.png">
 <BR>
+<img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/2_gender.png">
+<BR>
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/story_by_gender.png">
 <BR>  
 <BR>
@@ -40,14 +42,16 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/time_used.png">
 <BR>
 <BR>
-## Differences between NYC and Des Moines
-
-
-
-   
-   
-Summary:
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+## Opportunities
+<br>
+During my study I identified some areas where more research will be forthcoming.
+<BR>
+• NYC is a popular tourist destination, what does the tourism industry look like in Des Moines?
+<BR>
+• One can extrapolate that the majority of Citibike users live in NYC and use E-bikes for their commute. How does traffic congestion affect both cities, and how do they compare? 
+<BR>
+• The city density is very different in the cities, how will this affect bike ridership in Des Moines?
+<BR>
+<img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/city_differences.png">
 
 
