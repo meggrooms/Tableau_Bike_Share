@@ -4,7 +4,7 @@
   
 # Goldfinch E-bikes: A case study of E-bike usage in New York City
 
-Given the rising popularity of E-bikes in cities the city of Des Moines, Iowa is considering launching a program similar to the Citibike company in New York City.
+I recently spent two weeks in New York City, I was able to get an intimate view of the city because I chose Citibike's E-bikes as my promary form of transportation. I enjoyed the experience so much that I asked a friend to join me in creating an E-bike service in our hometown of Des Moise, IA. 
 
 
 
