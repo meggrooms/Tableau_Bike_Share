@@ -25,9 +25,11 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
  <BR>
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/story_1.png">
 <BR>
+<img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/story_by_gender.png">
+<BR>  
 <BR>
 
-• White annual subscribers comprise a large portion of daily rides, those who are not annual subscribers checkout approximately 30K more times per hour.
+• While annual subscribers comprise a large portion of daily rides, those who are not annual subscribers checkout approximately 30K more times per hour.
 <BR>
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/by_user.png">
 <BR>
@@ -37,7 +39,10 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
 <BR>
 <img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/time_used.png">
 <BR>
-<BR>  
+<BR>
+## Differences between NYC and Des Moines
+
+
 
    
    
