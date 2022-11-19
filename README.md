@@ -1,5 +1,5 @@
-# bikesharing
-
+# Goldfinch E-bikes 
+A case study of the
 
 There is a title, and there are multiple sections. (2 pt)
 Each section has a heading and subheading. (2 pt)
