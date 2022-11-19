@@ -13,20 +13,20 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
 <BR>
  
 ### <a href="https://public.tableau.com/app/profile/margaret.gangloff.grooms/viz/GoldfinchE-BikeProposal/GoldfinchStory">See our story in real time </a>
+<BR>
+<BR> 
 
- 
+## Study Results
 
 
 
 
 
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
 
 
 Overview of the statistical analysis:
 
-Results:
+
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
