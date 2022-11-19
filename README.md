@@ -19,6 +19,12 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
 ## Study Results
 
 
+• Most Citibike rides in NYC are under 15 minutes, with the the most rides lasting 7 minutes.
+ <BR>
+• Those who identify as male used Citibike considerably more than female and other/unknown.
+ <BR>
+<img src="https://github.com/meggrooms/bikesharing/blob/main/images/deliverable_2/story_1.png">
+
 
 
 
