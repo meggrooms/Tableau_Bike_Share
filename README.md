@@ -12,14 +12,13 @@ I've been approached by an angel incvestor who is interested in the project.
 To gain the investor's confidence we prepared a proposal using Tableau. Using colorful charts and providing details in a understandable manner that is just long enough to keep the investor's attention.
 <BR>
  
+### <a href="https://public.tableau.com/app/profile/margaret.gangloff.grooms/viz/GoldfinchE-BikeProposal/GoldfinchStory">See our story in real time </a>
 
 
 
 
 
 
-
-There is a title, and there are multiple sections. (2 pt)
 Each section has a heading and subheading. (2 pt)
 Links to images are working and displayed correctly. (2 pt)
 
