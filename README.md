@@ -3,11 +3,15 @@
 <BR>
   
 # Goldfinch E-bikes: A case study of E-bike usage in New York City
-## The story of an inspirational vacation.
+## Bringing E-bikes to Des Moines
 
-I recently spent two weeks in New York City, I was able to get an intimate view of the city because I chose Citibike's E-bikes as my promary form of transportation. I enjoyed the experience so much that I asked a friend to join me in creating an E-bike service in our hometown of Des Moise, IA. 
-
-
+Recently, a friend and I spent two weeks in New York City. We were able to get an intimate view of the city because we chose Citibike's E-bikes as our primary form of transportation. we enjoyed the experience so much that we are contemplating creating an E-bike service in our hometown of Des Moines, IA. 
+I've been approached by an angel incvestor who is interested in the project. 
+<BR>
+  
+To gain the investor's confidence we prepared a proposal using Tableau. Using colorful charts and providing details in a understandable manner that is just long enough to keep the investor's attention.
+<BR>
+ 
 
 
 
