@@ -14,7 +14,7 @@ To gain the investor's confidence we prepared a proposal using Tableau. Using co
  
 ### <a href="https://public.tableau.com/app/profile/margaret.gangloff.grooms/viz/GoldfinchE-BikeProposal/GoldfinchStory">See our story in real time </a>
 <BR>
-<BR> 
+
 
 ## Study Results
 
