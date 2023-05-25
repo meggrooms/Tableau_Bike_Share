@@ -5,7 +5,7 @@
 # Goldfinch E-bikes: A case study of E-bike usage in New York City
 ## Bringing E-bikes to Des Moines
 
-A client spent two weeks in New York City and was so excited at the intimate view of the city that she is contemplating bringing an E-Bike program to her hometown of Des Moines. I've been approached by an angel investor who is interested in the project. To gain the investor's confidence I prepared a proposal using Tableau. Using colorful charts and providing details in an understandable manner that is just long enough to keep the investor's attention.
+A client spent two weeks in New York City. During this trip, she was so excited at the intimate views of the city that the E-Bike gaver her that she is contemplating starting an E-Bike business in herhometown of Des Moines. I've been approached by an angel investor who is interested in the project. To gain the investor's confidence I prepared a proposal using **Tableau**. Using colorful charts and providing details in an understandable manner, just long enough to keep the investor's attention.
 
  
 ### <a href="https://public.tableau.com/app/profile/margaret.gangloff.grooms/viz/GoldfinchE-BikeProposal/GoldfinchStory">See the story in real time </a>
