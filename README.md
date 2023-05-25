@@ -8,7 +8,7 @@
 A client spent two weeks in New York City and was so excited at the intimate view of the city that she is contemplating bringing an E-Bike program to her hometown of Des Moines. I've been approached by an angel investor who is interested in the project. To gain the investor's confidence I prepared a proposal using Tableau. Using colorful charts and providing details in an understandable manner that is just long enough to keep the investor's attention.
 
  
-### <a href="https://public.tableau.com/app/profile/margaret.gangloff.grooms/viz/GoldfinchE-BikeProposal/GoldfinchStory">See our story in real time </a>
+### <a href="https://public.tableau.com/app/profile/margaret.gangloff.grooms/viz/GoldfinchE-BikeProposal/GoldfinchStory">See the story in real time </a>
 <BR>
 
 
